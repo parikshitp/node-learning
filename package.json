@@ -1,0 +1,15 @@
+{
+  "name": "node-samples",
+  "version": "1.0.0",
+  "description": "Workspace to learn node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Parikshit Patel",
+  "license": "ISC"
+}
